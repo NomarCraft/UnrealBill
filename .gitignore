@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Content/Scenes/TestsScenes/TestAlicia.umap
+
+Content/Blueprints/Ennemies/WavesData.uasset
